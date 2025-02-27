@@ -411,9 +411,9 @@ Examples:
 ---
 
 ### Smart Stake
-* [Smart Stake Analytics](https://analytics.smartstake.io/celestia) - validator, network, richlists, and decentralization analytics for Celestia
-* [Decentralization Analytics](https://decentralization.smartstake.io) - decentralization analytics for 35+ networks
-* [Relayer Analytics](https://analytics.smartstake.io/celestia) - IBC Relayer analytics for Celestia Relayers and Relayers contributing to 100+ other networks
+* [Smart Stake Analytics](https://analytics.smartstake.io/celestia) - validator, network, richlists, and decentralization analytics for Celestia. Includes comparing historical data of supported metrics for correlation over time. 
+* [Decentralization Analytics](https://analytics.smartstake.io) - Analytics for 30+ networks allowing comparison of 50+ metrics including simplified views on decentralization, usage, & staking metrics. Also includes comparing the historic data for a metric between Celestia and any of the other supported networks.
+* [Relayer Analytics](https://analytics.smartstake.io/celestia) - IBC Relayer analytics for Celestia Relayers and Relayers contributing to 100+ other networks.
 
 ---
 
